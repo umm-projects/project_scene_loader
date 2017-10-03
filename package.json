@@ -1,10 +1,10 @@
 {
-  "name": "@umm/scene_loader",
+  "name": "@umm/project_scene_loader",
   "version": "1.0.0",
   "description": "Scene loader supports divided projects.",
-  "homepage": "https://github.com/umm-projects/scene_loader",
+  "homepage": "https://github.com/umm-projects/project_scene_loader",
   "bugs": {
-    "url": "https://github.com/umm-projects/scene_loader/issues"
+    "url": "https://github.com/umm-projects/project_scene_loader/issues"
   },
   "scripts": {
     "umm:init": "./scripts/umm/init",
@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/scene_loader"
+    "url": "git@github.com:umm-projects/project_scene_loader"
   },
   "files": [
     "Assets",
